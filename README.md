@@ -1,4 +1,4 @@
-# To do list
+# 🗓️ To do list
 
 Criei a minha própria lista de tarefas dinâmica, o usuário é capaz de:
 
